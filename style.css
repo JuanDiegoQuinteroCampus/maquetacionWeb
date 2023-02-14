@@ -1,0 +1,11 @@
+.texto1{
+    font-size:small;
+}
+#cocinando{
+    position: absolute;
+    top:125px;
+    right: 600px;
+    height: 245px;
+    display: inline block;
+
+}
