@@ -1,11 +1,53 @@
+#fondo{
+    
+    background-size: cover;
+    height: 100%;
+    width: 43%;
+    position:absolute;
+    top:0% ;
+    left: 28%;
+    transform: translate(-0%, -0%);
+    z-index: -10;
+}
 .texto1{
-    font-size:small;
+    font-size:70%;
+    position: relative;
+    left: 5%;
 }
 #cocinando{
     position: absolute;
-    top:125px;
-    right: 600px;
-    height: 245px;
-    display: inline block;
+    top:140px;
+    right: 650px;
+    height: 200px;
 
+}
+.texto2{
+    font-size:smaller;
+}
+.sueño{
+
+}
+.olivo{
+    font-size: 70%;
+}
+.derecha{
+    position: absolute;
+    right: 30%;
+    top: 38%;
+    
+}
+#niños{
+    position: absolute;
+    right: 30%;
+    top: 100%;
+}
+.texto4{
+    position: absolute;
+    right: 20%;
+    top: 250%;
+    font-size:70%;
+}
+.pie{
+    position: absolute;
+    left:770px
 }
