@@ -1,40 +1,87 @@
-#fondo{
-    
+@import url('https://fonts.cdnfonts.com/css/old-london');
+.pagina{
+    background-image: url(img/fondo.png);
+    background-repeat: no-repeat;
     background-size: cover;
-    height: 100%;
-    width: 43%;
-    position:absolute;
-    top:0% ;
-    left: 28%;
-    transform: translate(-0%, -0%);
-    z-index: -10;
+    position: absolute;
+    width: 45%;
+    height: 110%;
+}
+.titulogrande{
+    text-align: center;
+    
+}
+.extra{
+    font-family: 'Old London', sans-serif;
+    font-size: xxx-large;
+    
+}
+.horno{
+    font-family: 'Old London', sans-serif;
+    font-size: x-large;
+
 }
 .texto1{
     font-size:70%;
     position: relative;
-    left: 5%;
+    left: 6%;
+    text-align-last: justify;
+    width:285px;
+    
 }
 #cocinando{
     position: absolute;
-    top:140px;
-    right: 650px;
+    top:215px;
+    right: 150px;
     height: 200px;
 
 }
 .texto2{
-    font-size:smaller;
+    font-size:70%;
+    position: relative;
+    left: 6%;
+    text-align-last: justify;
+    width:285px;
+    
+}
+.titulo2{
+    position: relative;
+    left: 6%;
+   
+}
+#vieja{
+    position:absolute;
+    left: 250px;
+    width:10%;
+    top:545px
 }
 .sueño{
+    position: relative;
+    left: 6%;
+    font-family: 'Old London', sans-serif;
+    font-size: x-large;
 
+}
+#señor{
+    position:absolute;
 }
 .olivo{
     font-size: 70%;
+    position: relative;
+    left:6%;
+    text-align-last: justify;
+    width:190px;
 }
 .derecha{
     position: absolute;
-    right: 30%;
-    top: 38%;
+    right: 7%;
+    top: 40%;
     
+    
+}
+.dulce{
+    font-family: 'Old London', sans-serif;
+    font-size: xx-large;
 }
 #niños{
     position: absolute;
@@ -44,10 +91,18 @@
 .texto4{
     position: absolute;
     right: 20%;
-    top: 250%;
+    top: 230%;
     font-size:70%;
+    
 }
 .pie{
     position: absolute;
-    left:770px
+    text-align: center;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    width: 750px;
+    left: 45px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    top:88%
 }
