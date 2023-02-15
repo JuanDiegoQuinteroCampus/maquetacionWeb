@@ -1,4 +1,8 @@
 @import url('https://fonts.cdnfonts.com/css/old-london');
+@import url('https://fonts.googleapis.com/css2?family=Seaweed+Script&display=swap');
+body{
+    background-color: black;
+}
 .pagina{
     background-image: url(img/fondo.png);
     background-repeat: no-repeat;
@@ -33,22 +37,20 @@
     position: absolute;
     top:215px;
     right: 150px;
-    height: 200px;
+    height: 230px;
 
 }
+
 .texto2{
     font-size:70%;
     position: relative;
     left: 6%;
     text-align-last: justify;
     width:285px;
+    top:-95px
     
 }
-.titulo2{
-    position: relative;
-    left: 6%;
-   
-}
+
 #vieja{
     position:absolute;
     left: 250px;
@@ -60,10 +62,30 @@
     left: 6%;
     font-family: 'Old London', sans-serif;
     font-size: x-large;
+    top:-90px
+
+
+}
+.titulo2{
+    font-size: 200%;
+    top: -10px;
+    position: relative ;
+    left: 50px;
+}
+.eventos{
+    font-family: 'Seaweed Script', cursive;
+    font-size: 320%;
+    top: -50px;
+    position: relative ;
+    left: 70px;
+   
 
 }
 #señor{
     position:absolute;
+    left: 238px;
+    top:798px;
+    width: 168px;
 }
 .olivo{
     font-size: 70%;
@@ -71,10 +93,11 @@
     left:6%;
     text-align-last: justify;
     width:190px;
+    top:-90px
 }
 .derecha{
     position: absolute;
-    right: 7%;
+    right: 10%;
     top: 40%;
     
     
@@ -85,14 +108,16 @@
 }
 #niños{
     position: absolute;
-    right: 30%;
+    right: 15%;
     top: 100%;
 }
 .texto4{
     position: absolute;
-    right: 20%;
+    right: 1%;
     top: 230%;
     font-size:70%;
+    text-align-last: justify;
+    width:290px;
     
 }
 .pie{
@@ -105,4 +130,21 @@
     padding-top: 2%;
     padding-bottom: 2%;
     top:88%
+}
+#linea{
+    position: absolute;
+    width: 2px;
+    height: 42%;
+    top:48%;
+    right: 423px;
+}
+#pastel{
+    position: absolute;
+    bottom: 3%;
+    left: 7%;
+}
+#revanada{
+    position: absolute;
+    bottom: 4.5%;
+    right: 7%;
 }
