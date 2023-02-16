@@ -44,7 +44,7 @@ body{
 .texto1{
     font-size:70%;
     position: relative;
-    left: 6%;
+    left: 8%;
     text-align-last: justify;
     width:285px;
     
@@ -60,7 +60,7 @@ body{
 .texto2{
     font-size:70%;
     position: relative;
-    left: 6%;
+    left: 8%;
     text-align-last: justify;
     width:285px;
     top:-95px
@@ -69,13 +69,13 @@ body{
 
 #vieja{
     position:absolute;
-    left: 250px;
+    left: 290px;
     width:10%;
     top:545px
 }
 .sueño{
     position: relative;
-    left: 6%;
+    left: 8%;
     font-family: 'Old London', sans-serif;
     font-size: x-large;
     top:-90px
@@ -86,27 +86,27 @@ body{
     font-size: 200%;
     top: -10px;
     position: relative ;
-    left: 50px;
+    left: 80px;
 }
 .eventos{
     font-family: 'Seaweed Script', cursive;
     font-size: 320%;
     top: -50px;
     position: relative ;
-    left: 70px;
+    left: 120px;
    
 
 }
 #señor{
     position:absolute;
-    left: 245px;
+    left: 276px;
     top:798px;
     width: 168px;
 }
 .olivo{
     font-size: 70%;
     position: relative;
-    left:6%;
+    left:8%;
     text-align-last: justify;
     width:190px;
     top:-90px
@@ -143,7 +143,7 @@ body{
     margin-top: 20px;
     border-bottom: 2px solid;
     width: 700px;
-    left: 45px;
+    left: 60px;
     padding-top: 2%;
     padding-bottom: 2%;
     top:88%;
@@ -159,10 +159,10 @@ body{
 #pastel{
     position: absolute;
     bottom: 3%;
-    left: 7%;
+    left: 8%;
 }
 #revanada{
     position: absolute;
     bottom: 4.5%;
-    right: 7%;
+    right: 8%;
 }
