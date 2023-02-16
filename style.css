@@ -8,21 +8,37 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     position: absolute;
-    width: 45%;
+    width: 43%;
     height: 110%;
 }
 .titulogrande{
     text-align: center;
-    
+    padding-top: 26px;
 }
+    
+
 .extra{
     font-family: 'Old London', sans-serif;
-    font-size: xxx-large;
+    font-size: 90px;
+    padding-top: -30%;
+    position: relative;
+    margin-top: -1%;
     
+    
+}
+.horizontal{
+    margin-top: -6%;
 }
 .horno{
     font-family: 'Old London', sans-serif;
-    font-size: x-large;
+    font-size: 40px;
+    padding-top: -30%;
+    position: relative;
+    margin-top: 0%;
+    
+}
+.abajo{
+    margin-top: -3%;
 
 }
 .texto1{
@@ -36,8 +52,8 @@ body{
 #cocinando{
     position: absolute;
     top:215px;
-    right: 150px;
-    height: 230px;
+    right: 95px;
+    width: 330px;
 
 }
 
@@ -83,7 +99,7 @@ body{
 }
 #señor{
     position:absolute;
-    left: 238px;
+    left: 245px;
     top:798px;
     width: 168px;
 }
@@ -97,8 +113,8 @@ body{
 }
 .derecha{
     position: absolute;
-    right: 10%;
-    top: 40%;
+    right: 9%;
+    top: 42%;
     
     
 }
@@ -124,19 +140,21 @@ body{
     position: absolute;
     text-align: center;
     border-top: 2px solid;
+    margin-top: 20px;
     border-bottom: 2px solid;
-    width: 750px;
+    width: 700px;
     left: 45px;
     padding-top: 2%;
     padding-bottom: 2%;
-    top:88%
+    top:88%;
+    font-size: 35px;
 }
 #linea{
     position: absolute;
     width: 2px;
     height: 42%;
     top:48%;
-    right: 423px;
+    right: 380px;
 }
 #pastel{
     position: absolute;
