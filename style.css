@@ -31,7 +31,7 @@ body{
 }
 .horno{
     font-family: 'Old London', sans-serif;
-    font-size: 40px;
+    font-size: 30px;
     padding-top: -30%;
     position: relative;
     margin-top: 0%;
@@ -51,7 +51,7 @@ body{
 }
 #cocinando{
     position: absolute;
-    top:215px;
+    top:200px;
     right: 95px;
     width: 330px;
 
@@ -63,7 +63,7 @@ body{
     left: 8%;
     text-align-last: justify;
     width:285px;
-    top:-95px
+    top:-70px
     
 }
 
@@ -78,20 +78,20 @@ body{
     left: 8%;
     font-family: 'Old London', sans-serif;
     font-size: x-large;
-    top:-90px
+    top:-70px
 
 
 }
 .titulo2{
     font-size: 200%;
-    top: -10px;
+    top: 5px;
     position: relative ;
     left: 80px;
 }
 .eventos{
     font-family: 'Seaweed Script', cursive;
     font-size: 320%;
-    top: -50px;
+    top: -30px;
     position: relative ;
     left: 120px;
    
@@ -99,9 +99,9 @@ body{
 }
 #señor{
     position:absolute;
-    left: 276px;
-    top:798px;
-    width: 168px;
+    left: 263px;
+    top:815px;
+    width: 150px;
 }
 .olivo{
     font-size: 70%;
@@ -109,7 +109,7 @@ body{
     left:8%;
     text-align-last: justify;
     width:190px;
-    top:-90px
+    top:-70px
 }
 .derecha{
     position: absolute;
